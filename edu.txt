@@ -1,2 +1,4 @@
 This is the new file with edu.txt as sudo user.
 second line added
+
+adding new line in the rebase branch
